@@ -1,4 +1,4 @@
-const data = await fetch('https://e51pzppdu1.execute-api.us-east-1.amazonaws.com/items').then((response) =>
+const data = await fetch('https://8xvc6u036c.execute-api.us-east-2.amazonaws.com/items').then((response) =>
     response.json()
 );
 
